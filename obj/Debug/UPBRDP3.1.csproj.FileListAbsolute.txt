@@ -1,0 +1,15 @@
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\bin\Debug\UPBRDP3.1.exe.config
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\bin\Debug\UPBRDP3.1.exe
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\bin\Debug\UPBRDP3.1.pdb
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.csproj.AssemblyReference.cache
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\MainWindow.g.cs
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\App.g.cs
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1_MarkupCompile.cache
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1_MarkupCompile.lref
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\MainWindow.baml
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.g.resources
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3._1.Properties.Resources.resources
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.csproj.GenerateResource.cache
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.csproj.CoreCompileInputs.cache
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.exe
+C:\Users\Doratorio\Desktop\Колледж\Учебная практика\УП1\Практика\Практика 3\UPBRDP3.1\obj\Debug\UPBRDP3.1.pdb
